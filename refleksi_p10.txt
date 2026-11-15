@@ -1,0 +1,13 @@
+REFLEKSI PERTEMUAN 10
+
+1. Mengapa deklarasi variabel penting dalam penyusunan algoritma?
+Deklarasi variabel penting untuk menentukan data yang digunakan dalam algoritma, termasuk nama dan tipe datanya. Dengan begitu, algoritma menjadi lebih terstruktur dan mudah dipahami.
+
+2. Mengapa konstanta ditulis menggunakan huruf kapital?
+Konstanta ditulis menggunakan huruf kapital agar mudah dibedakan dari variabel biasa. Selain itu, penulisan tersebut membantu menunjukkan bahwa nilainya bersifat tetap.
+
+3. Apa akibatnya jika input tidak dikonversi menggunakan int() atau float()?
+Input dari pengguna secara default dibaca sebagai string. Jika tidak dikonversi, operasi perhitungan dapat menghasilkan error karena tipe datanya tidak sesuai.
+
+4. Kesalahan apa yang paling sulit ditemukan saat debugging?
+Kesalahan yang cukup sulit ditemukan adalah TypeError karena program tidak dapat mengolah tipe data yang berbeda secara langsung. Untuk mengatasinya, perlu memeriksa pesan error dan memastikan tipe data setiap variabel sudah sesuai.
